@@ -176,3 +176,18 @@ page {
 .rectangle .carre5 .flexc5 .txtc5 h1 {
   color: white;
 }
+.rectangle .footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3%;
+  flex-direction: column;
+}
+.rectangle .footer .icon {
+  font-size: 5vh;
+  color: #c9c8c6;
+  margin: 2%;
+}
+.rectangle .footer .foottxt span {
+  color: #c9c8c6;
+}
